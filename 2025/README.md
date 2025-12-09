@@ -9,12 +9,12 @@
 
 ### A会场
 
-- [`Tim Miller Bringing .NET MAUI to Linux and WebAssembly Platforms with Avalonia`](./A会场/A-1-TimMiller-maui-support-for-linux-webassebly-with-avalonia.pdf.pdf)
+- [`Tim Miller Bringing .NET MAUI to Linux and WebAssembly Platforms with Avalonia`](./A会场/A-1-TimMiller-maui-support-for-linux-webassebly-with-avalonia.pdf)
 - [`袁永福-基于Blazor WASM技术打造行业隐形冠军`](./A会场/A-2-袁永福-基于Blazor%20WASM技术打造行业隐形冠军.pdf)
 - [`杨舜杰-为什么说 Blazor是 AI应用全栈开发利器`](./A会场/A-3-杨舜杰-为什么说%20Blazor是%20AI应用全栈开发利器.pdf)
 - [`徐瑞超-Aspire跨平台部署实践`](./A会场/A-4-徐瑞超-Aspire跨平台部署实践.pdf)
-- [`王景生-鸿蒙上的 Avalonia和 C#`](./A会场/A-5-王景生-鸿蒙上的%20Avalonia和%20C#.pdf)
-- [`李卫涵-更简单的 C#-dotnet-app_cs`](./A会场/A-6-李卫涵-更简单的%20C#-dotnet-app_cs.pdf)
+- [`王景生-鸿蒙上的 Avalonia和 C#`](./A会场/A-5-王景生-鸿蒙上的%20Avalonia和%20C%23.pdf)
+- [`李卫涵-更简单的 C#-dotnet-app_cs`](./A会场/A-6-李卫涵-更简单的%20C%23-dotnet-app_cs.pdf)
 - [`李时-Quant_Love_CS`](./A会场/A-7-李时-Quant_Love_CS.pdf)
 - [`黄凯华-如何在 .NET 中使用 SIMD`](./A会场/A-8-黄凯华-如何在%20.NET%20中使用%20SIMD.pdf)
 
@@ -35,9 +35,9 @@
 - [`姚圣伟-EFCore10 新特性及MCP调用国产数据库全指南`](./C会场/C-2-姚圣伟-EFCore10%20新特性及MCP调用国产数据库全指南.pdf)
 - [`骆姜斌-如何开发和管理.NET软件架构模板`](./C会场/C-3-骆姜斌-如何开发和管理.NET软件架构模板.pdf)
 - [`衣明志-依赖即代码：用 Testcontainers 重构 .NET AI Agents 的测试体系`](./C会场/C-4-衣明志-依赖即代码：用%20Testcontainers%20重构%20.NET%20AI%20Agents%20的测试体系.pdf)
-- [`郭强-C# NATIVE AOT在单片机上的应用`](./C会场/C-5-郭强-C#%20NATIVE%20AOT在单片机上的应用.pdf)
+- [`郭强-C# NATIVE AOT在单片机上的应用`](./C会场/C-5-郭强-C%23%20NATIVE%20AOT在单片机上的应用.pdf)
 - [`韩骏 - GitHub Copilot 如何成为 .NET 开发的智能引擎​`](./C会场/C-6-韩骏%20-%20GitHub%20Copilot%20如何成为%20.NET%20开发的智能引擎​.pdf)
-- [`汪好盛-C#14中新的扩展方法语法带来的崭新面貌`](./C会场/C-7-汪好盛-C#14中新的扩展方法语法带来的崭新面貌.pdf)
+- [`汪好盛-C#14中新的扩展方法语法带来的崭新面貌`](./C会场/C-7-汪好盛-C%2314中新的扩展方法语法带来的崭新面貌.pdf)
 - [`罗聪-基于 .NETCore 开源 AI 工作流平台`](./C会场/C-8-罗聪-基于%20.NETCore%20开源%20AI%20工作流平台.pdf)
 
 ### D会场
